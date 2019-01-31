@@ -8,4 +8,4 @@ This repository covers the notebooks required for the click prediction workshop.
 1. Modeling - Training, Time-dependent split, model explainability and regularization.
 1. Coefficient Monitoring - Tracking model performance and structure through time.
 
-For more details, contact me at goren.ml .
+For more details, contact me at (goren.ml)[http://www.goren.ml] .
